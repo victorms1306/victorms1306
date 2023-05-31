@@ -3,11 +3,11 @@
 
 <p align="left"> <a href= "https://github.com/ryo-ma/github-profile-trofeo"><img src="https://github-profile-trofeo.vercel.app/?username=victorms1306" alt="victorms1306" / ></a> </p>
 
-- 🔭 Actualmente estoy trabajando en **Alura Next One**
+- 🔭 Actualmente estoy estudiando en **Alura Next One**
 
-- 🌱 Actualmente estoy aprendiendo **Next.js y java**
+- 🌱 Actualmente estoy aprendiendo **HTML5, CSS3 Y Javascrpt**
 
-- 👯 Estoy buscando colaborar en * *Oracle tech**
+- 👯 Estoy buscando colaborar en **Para proyecto**
 
 - 🤝 Busco ayuda para **hablar en público**
 
