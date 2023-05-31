@@ -13,7 +13,7 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://twitter.com/victorms1306" width="50px" height="50px" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/twitter.svg" alt="victorms1306" height="30" width="40" /></a>
+<a href="https://twitter.com/victorms1306" target="blank"><img align="center"  width="50px" height="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/twitter.svg" alt="victorms1306" height="30" width="40" /></a>
 <a href="https://instagram.com/victorm1306 " width="50px" height="50px" target="en blanco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg " alt="victorm1306" altura="30" ancho="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@ vm-tutos3207" width="50px" height="50px" target="en blanco"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/ @vm-tutos3207" altura="30" ancho="40" /></a>
 </p>
