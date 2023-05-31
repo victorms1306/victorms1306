@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">A passionate frontend developer from Dominican Republic</h3>
+<h3 align="center">A passionate frontend and backend developer from Dominican Republic</h3>
 
 
 - 🔭 I’m currently studying on **Alura Next One**
