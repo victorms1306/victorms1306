@@ -6,7 +6,5 @@
 
 - 🌱 I’m currently learning **HTML5, CSS3 y Javascript**
 
-- 👯 I’m looking to collaborate on **Oracle tech**
-
 - 🤝 I’m looking for help with **public speaking**
 
