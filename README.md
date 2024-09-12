@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying on **Alura Next One**
 
-- 🌱 I’m currently learning **HTML5, CSS3 y Javascript**
+- 🌱 I’m currently learning **HTML5, CSS3, React y Javascript**
 
 - 🤝 I’m looking for help with **public speaking**
 
